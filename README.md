@@ -20,8 +20,8 @@ A Jupyter Notebook-based tool for visualizing robot motion and analyzing spline-
 Install dependencies via:
 
 ```bash
-conda env create -f environment.yml
-conda activate <env-name>
+conda env create -f environment.yml --prefix .conda
+conda activate .\.conda
 ```
 
 ---
