@@ -1,6 +1,6 @@
 # RISE Exoskelett Trajektorien-Visualisierer
 
-A Jupyter Notebook-based tool for visualizing robot motion and analyzing spline-based trajectories, developed as part of a robotic locomotion project.
+A Jupyter Notebook-based tool for visualizing robot/exoskeleton motion and analyzing spline-based trajectories, developed as part of a robotic locomotion project.
 
 ![Tool running with RISE exoskeleton URDF](Screenshot_2026-03-17_203543.png)
 
